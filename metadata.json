@@ -1,0 +1,6 @@
+{
+  "name": "ZX9Store",
+  "description": "Modern, premium APK and App Store marketplace with user reviews, admin dashboard, download analytics, and direct external hosting links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
